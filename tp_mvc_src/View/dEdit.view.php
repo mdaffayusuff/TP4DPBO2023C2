@@ -17,7 +17,7 @@ class dEditView
         <div class="card">
     
           <div class="card-header bg-warning">
-            <h1 class="text-white text-center"> Edit Member </h1>
+            <h1 class="text-white text-center"> Edit Domisili </h1>
           </div><br>
                 <input type="hidden" name="id" value="' . $id . '" class="form-control"> <br>
     
